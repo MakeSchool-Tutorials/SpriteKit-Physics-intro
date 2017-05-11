@@ -1,16 +1,21 @@
+---
+title: "Swift SpriteKit intro"
+slug: swift-spritekit-intro
+---
+
 # Furious Orange Tree
 
 Learn basic Swift and SpriteKit by building a physics based game similar to Angry Birds. 
 Fun and educational!
 
-![screenshot.png](screenshot.png)
+![screenshot.png](assets/screenshot.png)
 
 When you're done the game should look something like this: 
 
-![screenshot.gif](screenshot.gif)
+![screenshot.gif](assets/screenshot.gif)
 
 Resources for this project are located here: 
-[Smashing-Things.atlas](Smashing-Things.atlas.zip)
+[Smashing-Things.atlas](assets/Smashing-Things.atlas.zip)
 
 ## Make a new Xcode project
 
