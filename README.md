@@ -1,7 +1,6 @@
-# Orange Tree
+# Furious Orange Tree
 
-This is a physics based game like Angry Birds. This is an introductory tutorial on Swift
-and SpriteKit. 
+Learn basic Swift and SpriteKit by building a physics based game similar to Angry Birds. 
 
 ![screenshot.png](screenshot.png)
 
