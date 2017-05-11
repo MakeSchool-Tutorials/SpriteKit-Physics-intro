@@ -2,13 +2,14 @@
 
 Learn basic Swift and SpriteKit by building a physics based game similar to Angry Birds. 
 
-![screenshot.png](screenshot.png)
+![screenshot.png](../screenshot.png)
 
 When you're done the game should look something like this: 
 
-![screenshot.gif](screenshot.gif)
+![screenshot.gif](../screenshot.gif)
 
-Resources for this project are located here: [Smashing-Things.atlas](Smashing-Things.atlas.zip)
+Resources for this project are located here: 
+[Smashing-Things.atlas](../Smashing-Things.atlas.zip)
 
 ## Make a new Xcode project
 
