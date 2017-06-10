@@ -1,6 +1,6 @@
 ---
 title: "Swift SpriteKit intro"
-slug: swift-spritekit-intro
+slug: swift-spritekit
 ---
 
 # Furious Orange Tree
